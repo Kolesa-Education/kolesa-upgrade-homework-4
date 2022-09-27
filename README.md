@@ -24,3 +24,6 @@
 ### Как сдать ДЗ?
 Чтобы сдать ДЗ, вам необходимо в соотвествующую папку с ДЗ положить импортированную из https://app.diagrams.net/ БД в виде картинки формата PNG
 или же PDF файла
+
+### Полезные материалы
+[Инструменты для проектирования баз данных](https://github.com/Kolesa-Education/backend-articles/blob/master/databases/er-diagrams.md)
