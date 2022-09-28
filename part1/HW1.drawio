@@ -1,29 +1,11 @@
 <mxfile host="65bd71144e">
     <diagram id="RtGnnWrqG44O1yypCPVg" name="Страница 1">
-        <mxGraphModel dx="1000" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
+        <mxGraphModel dx="1374" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="7" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;fontColor=#CC0000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;strokeWidth=2;labelBorderColor=none;labelBackgroundColor=none;sketch=0;fillColor=#f5f5f5;strokeColor=#FFFFFF;" parent="1" source="46" target="35" edge="1">
-                    <mxGeometry width="100" height="100" relative="1" as="geometry">
-                        <mxPoint x="240" y="131" as="sourcePoint"/>
-                        <mxPoint x="321" y="242" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="11" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=0;shadow=0;strokeWidth=2;labelBorderColor=none;labelBackgroundColor=none;sketch=0;fillColor=#f5f5f5;strokeColor=#FFFFFF;" parent="1" source="38" target="73" edge="1">
-                    <mxGeometry width="100" height="100" relative="1" as="geometry">
-                        <mxPoint x="507" y="242" as="sourcePoint"/>
-                        <mxPoint x="540" y="301" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="26" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;fontColor=#CC0000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;strokeWidth=2;labelBorderColor=none;labelBackgroundColor=none;sketch=0;fillColor=#f5f5f5;strokeColor=#FFFFFF;" parent="1" source="32" target="60" edge="1">
-                    <mxGeometry width="100" height="100" relative="1" as="geometry">
-                        <mxPoint x="507" y="191" as="sourcePoint"/>
-                        <mxPoint x="540" y="111" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
                 <mxCell id="28" value="Список полётов" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;rounded=0;shadow=0;strokeWidth=2;labelBorderColor=none;labelBackgroundColor=none;sketch=0;" parent="1" vertex="1">
-                    <mxGeometry x="300" y="130" width="180" height="190" as="geometry"/>
+                    <mxGeometry x="300" y="120" width="180" height="190" as="geometry"/>
                 </mxCell>
                 <mxCell id="29" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;strokeWidth=2;labelBorderColor=none;labelBackgroundColor=none;sketch=0;" parent="28" vertex="1">
                     <mxGeometry y="30" width="180" height="30" as="geometry"/>
@@ -91,7 +73,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="45" value="Данные корабля" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;rounded=0;shadow=0;strokeWidth=2;labelBorderColor=none;labelBackgroundColor=none;sketch=0;" parent="1" vertex="1">
-                    <mxGeometry x="40" y="80" width="200" height="160" as="geometry"/>
+                    <mxGeometry x="40" y="90" width="200" height="160" as="geometry"/>
                 </mxCell>
                 <mxCell id="46" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;strokeWidth=2;labelBorderColor=none;labelBackgroundColor=none;sketch=0;" parent="45" vertex="1">
                     <mxGeometry y="30" width="200" height="30" as="geometry"/>
@@ -188,7 +170,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="72" value="Данные пилотов" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;rounded=0;shadow=0;strokeWidth=2;labelBorderColor=none;labelBackgroundColor=none;sketch=0;" parent="1" vertex="1">
-                    <mxGeometry x="540" y="260" width="180" height="130" as="geometry"/>
+                    <mxGeometry x="540" y="290" width="180" height="130" as="geometry"/>
                 </mxCell>
                 <mxCell id="73" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;strokeWidth=2;labelBorderColor=none;labelBackgroundColor=none;sketch=0;" parent="72" vertex="1">
                     <mxGeometry y="30" width="180" height="30" as="geometry"/>
@@ -229,8 +211,26 @@
                         <mxRectangle width="150" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="88" value="Пояснительная бригада:&lt;br&gt;1)&amp;nbsp; добавил числовые внешние ключи, т.к. с числами легче будет работать;&lt;br&gt;2)&amp;nbsp; все связи one-to-one&lt;br&gt;3) Считаю что на любой корабль могут назначить любого пилота" style="rounded=0;whiteSpace=wrap;html=1;align=left;shadow=0;strokeWidth=2;labelBorderColor=none;labelBackgroundColor=none;sketch=0;" parent="1" vertex="1">
+                <mxCell id="88" value="Пояснительная бригада:&lt;br&gt;1)&amp;nbsp; добавил числовые внешние ключи, т.к. с числами легче будет работать;&lt;br&gt;2) Считаю что на любой корабль могут назначить любого пилота&lt;br&gt;3) Связи one-to-many" style="rounded=0;whiteSpace=wrap;html=1;align=left;shadow=0;strokeWidth=2;labelBorderColor=none;labelBackgroundColor=none;sketch=0;" parent="1" vertex="1">
                     <mxGeometry x="50" y="360" width="320" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="89" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=none;strokeColor=#FFFFFF;startArrow=ERoneToMany;startFill=0;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.994;exitY=0.3;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="32" target="60">
+                    <mxGeometry width="100" height="100" relative="1" as="geometry">
+                        <mxPoint x="460" y="100" as="sourcePoint"/>
+                        <mxPoint x="550" y="220" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="92" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=none;strokeColor=#FFFFFF;startArrow=ERoneToMany;startFill=0;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="38" target="73">
+                    <mxGeometry width="100" height="100" relative="1" as="geometry">
+                        <mxPoint x="478.9200000000001" y="414" as="sourcePoint"/>
+                        <mxPoint x="540" y="310" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="94" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;strokeColor=#FFFFFF;strokeWidth=2;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="45" target="35">
+                    <mxGeometry width="100" height="100" relative="1" as="geometry">
+                        <mxPoint x="380" y="580" as="sourcePoint"/>
+                        <mxPoint x="300" y="240" as="targetPoint"/>
+                    </mxGeometry>
                 </mxCell>
             </root>
         </mxGraphModel>
